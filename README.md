@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++, Python and HTML
 - 💞️ I’m not looking to collaborate temporally
 - 📫 You can reach me by Email: DGU_CEQ@163.com
-- 😄 Pronouns: confidence
+- 😄 Pronouns: PGU
 - ⚡ Fun fact: I'm a Chinese and I'm not so well in read English (AwA)
 - （I'm a newcomer）
 
