@@ -5,6 +5,7 @@
 - 📫 You can reach me by Email: DGU_CEQ@163.com
 - 😄 Pronouns: confidence
 - ⚡ Fun fact: I'm a Chinese and I'm not so well in read English (AwA)
+- （I'm a newcomer）
 
 <!---
 BLs-EcMO-DmU/BLs-EcMO-DmU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
